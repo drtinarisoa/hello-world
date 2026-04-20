@@ -1,2 +1,2 @@
 # hello-world
-Ce dépôt sert à s’exercer au flux de travail GitHub. 
+Je suis médecin en cours de spécialisation pour devenir radiologue.
